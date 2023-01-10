@@ -1,0 +1,41 @@
+.cart-iso .box {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.cart-iso .material-icons {
+  font-size: 1em;
+  cursor: pointer;
+  color: black;
+}
+.cart-iso .card {
+  width: 300px;
+}
+.cart-iso .card .card-image .card-title {
+  color: black;
+  font-weight: 400;
+}
+.cart-iso .cart {
+  margin-top: 40px;
+}
+.cart-iso .collection .collection-item {
+  display: flex;
+}
+.cart-iso .collection-item.avatar .title {
+  font-size: 20px;
+  font-weight: 500;
+  color: #ee6e73;
+  display: block;
+  margin-bottom: 20px;
+}
+.cart-iso .collection .collection-item img {
+  width: 150px;
+  margin-right: 25px;
+}
+.cart-iso .item-desc {
+  align-self: center;
+}
+
+.cart-iso .link {
+  color: black;
+}

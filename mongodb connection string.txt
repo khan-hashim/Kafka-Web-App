@@ -1,0 +1,4 @@
+mongodb+srv://fahad:<password>@kafka.sjqrw.gcp.mongodb.net/<dbname>?retryWrites=true&w=majority
+
+
+const uri = 'mongodb+srv://fahad:sartre25@kafka.sjqrw.gcp.mongodb.net/orders?retryWrites=true&w=majority'
